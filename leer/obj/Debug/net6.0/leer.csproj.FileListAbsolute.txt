@@ -1,0 +1,15 @@
+C:\Users\charl\Desktop\leerteclado\leer\bin\Debug\net6.0\leer.exe
+C:\Users\charl\Desktop\leerteclado\leer\bin\Debug\net6.0\leer.deps.json
+C:\Users\charl\Desktop\leerteclado\leer\bin\Debug\net6.0\leer.runtimeconfig.json
+C:\Users\charl\Desktop\leerteclado\leer\bin\Debug\net6.0\leer.dll
+C:\Users\charl\Desktop\leerteclado\leer\bin\Debug\net6.0\leer.pdb
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.AssemblyInfo.cs
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.dll
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\refint\leer.dll
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.pdb
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\leer.genruntimeconfig.cache
+C:\Users\charl\Desktop\leerteclado\leer\obj\Debug\net6.0\ref\leer.dll
